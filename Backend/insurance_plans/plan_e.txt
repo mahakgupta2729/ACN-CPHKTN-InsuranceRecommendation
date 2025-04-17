@@ -1,0 +1,5 @@
+Plan E - Catastrophic Coverage
+- Coverage: Emergency Room, Hospitalization after accident/illness
+- Premium: $120/month
+- Deductible: $5,000
+- Suitable for: Young adults with low expected usage and high deductible preference

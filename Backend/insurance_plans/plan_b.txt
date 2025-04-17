@@ -1,0 +1,5 @@
+Plan B - Family Health Package
+- Coverage: Hospitalization, Maternity, Pediatric, Doctor Visits
+- Premium: $500/month
+- Deductible: $800
+- Suitable for: Families with children and expecting parents

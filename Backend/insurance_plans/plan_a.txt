@@ -1,0 +1,5 @@
+Plan A - Basic Health Coverage
+- Coverage: Hospitalization, Doctor Visits
+- Premium: $200/month
+- Deductible: $1,000
+- Suitable for: Individuals with minimal medical needs
